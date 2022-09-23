@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+  }
+  
+  main {
+    margin: 5rem auto;
+    justify-content: space-between;
+    margin-left: 100px;
+  }
+  
+  body {
+    background-color: #0e0e0e;
+  }
+  
+  h1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  }
+  
+  h1 span{
+      font-weight: 800;
+  }
+  
+  #inicio {
+    max-width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  
+  #conteudo {
+    display: flex;
+  }
+  
+
+  .imagem2 {
+    width: 439px;
+    height: 449px;
+  }
+  
+  #logo {
+    width: 520px;
+    height: 129.44px;
+  }
+  
+  .imagem {
+    margin-left: 150px;
+  }
+  
+  .texto {
+    margin-top: 80px;
+  }
+  
+  .paragrafo {
+    color: #7d7a87;
+    font-family: "Poppins", sans serif;
+    margin-top: 25px;
+    font-size: 14px;
+    font-weight: 400px;
+  }
+  
+  #email {
+    width: 520px;
+    height: 72px;
+    border-radius: 8px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 1rem;
+  
+  }
+  
+  #CaixaTexto {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  button {
+    width: 301px;
+    height: 72px;
+    background-color: #04d361;
+    border-radius: 8px;
+    margin-left: 15px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+  }
+  
+  .Fim {
+    color: white;
+    margin-top: 20px;
+    margin-left: 130px;
+    font-family: "Poppins", sans-serif;
+    color: #04d361;
+    font-size: 12px;
+  }
+  
+  .coracao {
+    width: 14px;
+    height: 12px;
+    margin-left: 5px;
+  }
